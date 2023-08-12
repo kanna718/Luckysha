@@ -1,0 +1,10 @@
+
+var typed=new Typed(".msg",{
+    strings:["Frontend Developer","UI Designer"],
+    typeSpeed:100,
+    backSpeed:100,
+    backDelay:1000,
+    loop:true
+});
+
+ 
